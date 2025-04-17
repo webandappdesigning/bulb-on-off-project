@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.container{
+    text-align:center; 
+    margin-top: 50px;
+     
+      
+}
+img{
+    border-radius: 30px;
+    height:400px;
+    width: 400px;
+    /* box-shadow: 6px 6px gray; */
+}
+
+h1{
+  color: aliceblue;
+  height: 50px;
+  font-size: 70px; 
+  font-weight: bolder;
+  text-shadow: 6px 4px gray;
+}
+
+button{
+    border-radius: 12px;
+    height: 100px;
+    width: 100px;
+    justify-content: space-between;
+    background-color: black;
+    font-size: xx-large;
+    color: aliceblue;
+    text-shadow: 10px;
+    border-color: antiquewhite;
+    box-shadow: 6px 4px gray;
+
+}
