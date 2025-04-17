@@ -12,7 +12,6 @@ img{
     border-radius: 30px;
     height:400px;
     width: 400px;
-    /* box-shadow: 6px 6px gray; */
 }
 
 h1{
@@ -33,6 +32,7 @@ button{
     color: aliceblue;
     text-shadow: 10px;
     border-color: antiquewhite;
-    box-shadow: 6px 4px gray;
+    font-weight: bolder;
+    font-style: oblique;
 
 }
